@@ -1,0 +1,13 @@
+#ex{
+    color: rgb(211, 192, 169);
+    background-color: rgb(39, 34, 34);
+            padding: 15px;
+            margin: 20px;
+            border-left:5px dotted rgb(219, 241, 226);
+            border-radius: 0px 20px 20px 0px;
+    box-shadow: 10px 18px 10px rgb(49, 49, 53);">
+        }
+        .css{
+            text-align: center;
+        }
+}
